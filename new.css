@@ -1,0 +1,72 @@
+#aux, #freemium-bg, #header, #preview-ctx, #text-ad-container, #footer{
+    display: none !important
+}
+
+#connections, #groups-container, #following-container, #endorsements{
+    display: none
+}
+
+/*the top section*/
+#global-error{
+    display: none
+}
+
+/*hide those in name card section*/
+
+
+/*the actual profile is under "#profile"*/
+#profile{
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*optimization for course section*/
+#courses h4{
+    display: none    
+}
+
+#courses .section-item{
+    margin-bottom: 0      
+}
+
+#courses .courses-listing{
+    padding: 0
+}
+
+#courses {
+    padding-bottom: 30px
+}
+
+/*optimization for profile card*/
+.masthead .account-icons{
+    /*the '1st' icon*/
+    display: none 
+}
+
+.profile-card-extras{
+    /*contact stuff*/
+    display: none;
+}
+
+.profile-aux{
+    /*send messgae, connection number*/
+    display: none 
+}
+
+.profile-picture{
+    margin: 0 !important
+}
+
+
+/*hide the 'background' section*/
+#background > h2{
+    display: none
+}
+
+
+/*optimization for project section*/
+#background-projects dl{
+    display: none 
+}
