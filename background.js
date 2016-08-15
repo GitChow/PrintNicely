@@ -8,6 +8,6 @@ chrome.browserAction.onClicked.addListener(function(tab) {
   // });
 
   // insert js in this way
-  //chrome.tabs.executeScript(null, {file: "content_script.js"});
-  chrome.tabs.insertCSS(null, {file: "new.css"});
+  chrome.tabs.executeScript(null, {file: "inject.js"});
+  chrome.tabs.insertCSS(null, {file: "inject.css"});
 });

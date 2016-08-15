@@ -52,6 +52,10 @@ body {
     margin-top: 0 !important
 }
 
+#location{
+    display: none
+}
+
 .profile-overview {
     float: left !important
 }
@@ -258,4 +262,13 @@ div#profile-skills h5 {
     margin-bottom: 0px !important
 }
 
-/*optimization for education*/
+/* for contact section injected by JS*/
+.contact-inserted {
+    width: 50%;
+    display: inline-block;
+    border-left: 1px solid gray;
+    padding-left: 10px;
+    margin-top: 15px;
+    vertical-align: middle;
+    font-size: 16px
+}
