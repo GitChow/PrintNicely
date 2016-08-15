@@ -13,6 +13,6 @@ either did not find a nice tool to fit best my needs:
 
 # how to use
 - chrome -> settings -> extensions -> developer mode -> load unpacked extension -> choose this whole folder
-- check if on the top-riht corner, this extension shows
-- go to your linked profile -> "view profile as" -> click this extension
+- this extension should show at top-right corner of your browser
+- go to your LinkedIn profile -> "view profile as" -> click this extension
 - ctrl+p, print page as pdf
