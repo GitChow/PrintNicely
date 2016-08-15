@@ -2,7 +2,7 @@
   //https://developer.chrome.com/extensions/content_scripts#pi
   //Programmatic injection
   "name": "PrintNicely",
-  "description": "inject css and javascript for better LinkedIN profile printing",
+  "description": "inject css and javascript for better LinkedIn profile printing",
   "version": "0.5",
   "permissions": [
     "activeTab"
@@ -12,7 +12,7 @@
     "persistent": false
   },
   "browser_action": {
-    "default_title": "click me after opening your LinkedIN profile using 'view profile as'"
+    "default_title": "click me after opening your LinkedIn profile using 'view profile as'"
   },
   "manifest_version": 2
 }
