@@ -8,6 +8,11 @@ var emailLi = document.createElement("li");
 emailLi.innerHTML = "Email: "+email
 contactUl.appendChild(emailLi)
 
+//deal with linkedIn url
+var linkedinUrl=document.querySelector(".view-public-profile").href
+var linkedinLi = document.createElement("li");
+linkedinLi.innerHTML = "LinkedIn: "+linkedinUrl
+contactUl.appendChild(linkedinLi)
 
 //deal with website Urls
 
