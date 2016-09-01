@@ -1,3 +1,6 @@
+# About
+A google chrome extension to help print neat CV from LinkedIn via css/js injection.
+
 # Target
 I maintain CV in LinkedIn, but its own "save to pdf" function sucks, 
 either did not find a nice tool to fit best my needs:
