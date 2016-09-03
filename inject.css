@@ -163,6 +163,16 @@ body {
     display: none 
 }
 
+.background-projects .section-item {
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 20px !important;
+    vertical-align: top;
+}
+
+.background-projects .section-item .description {
+    margin-top: 0
+}
 
 /*optimized for work experience*/
 .education-associated {
