@@ -175,6 +175,10 @@ body {
 }
 
 /*optimized for work experience*/
+.background-experience header{
+    width: 33%
+}
+
 .education-associated {
     display: none
 }
